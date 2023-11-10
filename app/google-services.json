@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "247223320390",
+    "project_id": "podcast-app-5013c",
+    "storage_bucket": "podcast-app-5013c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247223320390:android:176c7f8e8e380d8a176f47",
+        "android_client_info": {
+          "package_name": "com.project.podkast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX25R1DTcWgtZcaAtZuJ-M0XOoNnNhi0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247223320390:android:346d42a3414deb2e176f47",
+        "android_client_info": {
+          "package_name": "com.project.swizo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX25R1DTcWgtZcaAtZuJ-M0XOoNnNhi0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
