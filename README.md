@@ -12,7 +12,7 @@ Features
 •	Sorting Podcast and displaying based on the views
 
 Result
-<img src="https://github.com/nishant0207/PodKast/assets/87112884/e5098fc0-d88b-41e9-8a2c-05f88da51e29" alt="Home Page (1)" width="50%">
+<img src="https://github.com/nishant0207/PodKast/assets/87112884/e5098fc0-d88b-41e9-8a2c-05f88da51e29" alt="Home Page (1)" width="20%">
 
 https://drive.google.com/file/d/1Fo_K_CH-aNqR2i2wfCGjD7w5PSFdK8Me/view?usp=sharing
 
