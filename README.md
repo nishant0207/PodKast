@@ -20,6 +20,3 @@ Result
 Demo -> <a>https://drive.google.com/file/d/1dnnNwP4UVd9Wksjdjf3KPlWQrSp2NPvC/view?usp=sharing</a>
 
 
-![image](https://github.com/nishant0207/PodKast/assets/87112884/5fded971-529e-47bc-a3b4-6e3728e223a5)
-
-
