@@ -19,6 +19,6 @@
 <img src="https://github.com/nishant0207/PodKast/assets/87112884/c5f27ecf-d14a-4b2e-9c66-4647a8fad165" alt="Home Page (1)" width="20%" style="margin-right:10px;">
 
 <h2>Demo</h2>
-<a>https://drive.google.com/file/d/1dnnNwP4UVd9Wksjdjf3KPlWQrSp2NPvC/view?usp=sharing</a>
+<a href="https://drive.google.com/file/d/1dnnNwP4UVd9Wksjdjf3KPlWQrSp2NPvC/view?usp=sharing">Demo Video</a>
 
 
