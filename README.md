@@ -12,13 +12,17 @@ Features
 •	Sorting Podcast and displaying based on the views
 
 Result
-https://drive.google.com/file/d/1_CDLnj17EkcXohggCb9E8DR54H7O7ira/view?usp=sharing
+![Home Page (1)](https://github.com/nishant0207/PodKast/assets/87112884/e5098fc0-d88b-41e9-8a2c-05f88da51e29)
 
 https://drive.google.com/file/d/1Fo_K_CH-aNqR2i2wfCGjD7w5PSFdK8Me/view?usp=sharing
 
 https://drive.google.com/file/d/1ZrZss36WbPMOiAP9Dc66TKj000GSjKg7/view?usp=sharing
 
 https://drive.google.com/file/d/1AkXQ-Ujm12X9iowzJj8zFjXUWSWHcBRi/view?usp=sharing
+
+
+
+
 
 // Todo: Make carousel for images
 
