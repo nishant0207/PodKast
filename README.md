@@ -1,6 +1,6 @@
 <h1>Podcast App</h1>
 
-<p>This is an Android Podcast App made with Jetpack Compose and ExoPlayer.</p>
+<p>This is an Android Podcast App made with Jetpack Compose and Media3 Player.</p>
 
 <h2>Features</h2>
 <ul>
