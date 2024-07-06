@@ -13,6 +13,7 @@ Features
 
 Result
 ![Home Page (1)](https://github.com/nishant0207/PodKast/assets/87112884/e5098fc0-d88b-41e9-8a2c-05f88da51e29)
+<img src="https://path/to/your/image.png" alt="Home Page (1)" width="50%">
 
 https://drive.google.com/file/d/1Fo_K_CH-aNqR2i2wfCGjD7w5PSFdK8Me/view?usp=sharing
 
